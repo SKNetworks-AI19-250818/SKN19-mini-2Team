@@ -410,6 +410,8 @@ EDA를 통해 얻은 인사이트를 바탕으로, 음악의 오디오 특성과
 
 ## 🖥️ Streamlit 애플리케이션
 
+🔗 웹페이지: [MelodiMatch](https://melodimatch.streamlit.app/)
+
 Streamlit을 사용하여 구축된 웹 애플리케이션은 사용자가 쉽고 직관적으로 음악 추천을 받을 수 있는 UI를 제공합니다.
 
 ### 1. 주요 기능 및 화면 흐름
